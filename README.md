@@ -1,5 +1,8 @@
 # Convert-Text-to-Speech-in-Python
-- Text to speech is a process to convert any text into voice. Text to speech project takes words on digital devices and convert them into audio with a button click or finger touch. Text to speech python project is very helpful for people who are struggling with reading.
+- <strong>Text to speech is a process to convert any text into voice. Text to speech project takes words on digital devices and convert them into audio with a button click or finger touch. Text to speech python project is very helpful for people who are struggling with reading.</strong></br>
+
+
+# ![Result image](https://github.com/Veerendra-K/Convert-Text-to-Speech-in-Python/blob/main/Results/Result.png "Result Image") #
 
 # Project Prerequisites
 - To implement this project, we will use the basic concepts of Python, Tkinter, gTTS, and playsound libraries.
